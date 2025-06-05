@@ -1,5 +1,5 @@
 ---
-pageLayout: home
+pageLayout: blog
 externalLinkIcon: false
 config:
   -
@@ -7,9 +7,9 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      name: 软件资料站
+      tagline: 免费软件，正版软件激活
+      text: 一个简约的，软件资料站，专注于软件下载、激活、安装教程等。
       actions:
         -
           theme: brand
