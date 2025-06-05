@@ -13,9 +13,10 @@ export default defineNavbarConfig([
   { text: "归档", link: "/blog/archives/" },
   {
     text: "资源",
-    items: [
+    link: "/notes/software/README.md",
+    /* items: [
       { text: "示例", link: "/notes/demo/README.md" },
       { text: "软件", link: "/notes/software/README.md" },
-    ],
+    ], */
   },
 ]);

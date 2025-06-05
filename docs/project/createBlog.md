@@ -2,6 +2,9 @@
 title: 免费个人博客搭建，使用vuepress和plume主题在github上搭建一个免费的个人博客
 createTime: 2025/06/05 08:53:37
 permalink: /article/ubvyjyd9/
+tags:
+  - 个人网站
+  - 个人博客
 ---
 
 做网站是要花钱的，需要买域名，买服务器，然后备案，才可以有一个自己的个人网站，光备案做网站就需要2周到一个月，因此为花大量的时间。
@@ -114,6 +117,84 @@ pnpm create vuepress-theme-plume@latest
 
 [markdown写作指南](/article/a8ekvit2/)
 
---- 
+---
 
 # 部署，把项目上传到github，拥有自己的网站
+
+## github官方
+如果你还没有 Github 的账号，需要注册一个：[Github官方地址](https://github.com/)
+
+## 新建 Github 仓库
+注册好后，我们先在 Github 上新建一个仓库，我的仓库就叫：blog。
+
+![alt text](./images/github_create.png)
+
+「（注意：如果你的博客地址不想要有二级目录（blog），仓库名就叫 <你的用户名>.github.io，具体请看文章最后一段。 ）」
+
+![alt text](./images/github_create_repository.png)
+
+这里说明一下，如果想要自己的域名，最好是仓库名叫 <你的用户名>.github.io，比如我的：spionbo.github.io，因为我的用户名是 `spionbo`
+
+如果没有按照这种方式，而是按照二级域名（刚刚上面的blog）的方式，需要修改以下数据
+
+```js
+export default defineUserConfig({
+  base: "/blog",
+  lang: "zh-CN",
+  title: "小焱",
+})
+```
+二级域名需要将`base`改为`/blog`:
+
+```bash
+base: "/blog"
+```
+如果是以用户名的方式则只需要:
+
+```bash
+base: "/"
+```
+
+## 部署项目到 Github 仓库
+
+这里我懒的讲怎么改代码之类的了，直接复制以下项目到 Github 仓库即可；以下是项目文件下载地址：
+
+[（个人博客源代码下载地址）](https://pan.quark.cn/s/ebad1f657ad1)
+
+###  提交项目到 github 仓库
+
+
+将下载好的源代码目录打开，使用cmd进入当前下载的目录下，执行以下命令
+
+如果不会使用git的，可以网上搜索了解一下，当然直接执行下面的方法也是一样的；
+
+```bash
+  git init 
+  git add .
+  git commit -m "first commit"
+  git branch -M main
+  #把 git@github.com:zhanyd/blog.git 改成你自己的仓库地址
+  git remote add origin git@github.com:zhanyd/blog.git
+  git push -u origin main
+
+```
+
+提交完代码之后，在github的仓库中看修改Actions下面的信息，如下图：
+![alt text](./images/github_action.png)
+
+然后再去设置Actions中的General
+
+![alt text](./images/github_action_setting0.png)
+
+选择如下图，选择 Read and write permissions
+
+![alt text](./images/github_action_setting.png)
+
+以上目的就是为了让你发布的时候有权限进行发布，这时候再去修改内容，提交一下，就会自动生成网站了
+
+第次提交的时候可以在Actions中查看你的代码，如以下图，其中`main`为你提交文章保存的地方，`github-pages`用于展示你的网站；这个可以不管。如果想了解需要学习一下`Github`仓库管理；
+
+![alt text](./images/action_workflows.png)
+
+以上做完后，就可以查看自己的个人博客了。
+个人博客地址可以在`settings -> pages`页面查看；一搬是<你的用户名>.github.io；
