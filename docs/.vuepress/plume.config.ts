@@ -47,8 +47,8 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/basic/#profile
    */
   profile: {
-    avatar: "https://theme-plume.vuejs.press/plume.png",
-    name: "My Vuepress Site",
+    avatar: "/logo.jpg",
+    name: "小焱分享",
     description: "",
     // circle: true,
     // location: '',

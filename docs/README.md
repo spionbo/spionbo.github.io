@@ -1,5 +1,5 @@
 ---
-pageLayout: doc
+pageLayout: home
 externalLinkIcon: false
 config:
   -
@@ -17,6 +17,6 @@ config:
           link: /blog/
         -
           theme: alt
-          text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          text: 关于小焱 →
+          link: /other/about/
 ---
