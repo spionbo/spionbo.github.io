@@ -18,6 +18,7 @@ permalink: /article/software/
 - Chrome 浏览器离线版 - [点击下载](https://pan.quark.cn/s/0065796ea9dc)
 - 图片处理，扣图软件美图秀秀 - [点击下载](https://pan.quark.cn/s/255502a981d2)
 - 老版win_RAR_X64解压软件 - [点击下载](https://pan.quark.cn/s/f79828accc89)
+- 壁纸引擎Wallpaper Engine v2.5.28冬季离线版 - [点击下载](https://pan.quark.cn/s/35a12b616b8e)
 
 
 
