@@ -60,6 +60,9 @@ permalink: /article/software/
 - Adobe Acrobat Reader  - [点击下载](https://pan.quark.cn/s/945bef056362)
 
 ## 编程开发
+- [「typora1.0.3版，免费无需激活版」](https://pan.quark.cn/s/d48c21f5c4cc)
+- [「nvm安装nodejs版本管理器」](https://pan.quark.cn/s/6af99d8a3e0a)
+- [「Fiddler_无需登录版」](https://pan.quark.cn/s/497b5d80cd98)
 
 ## 多媒体
 ### 音乐播放
@@ -72,6 +75,7 @@ permalink: /article/software/
 - 360极速浏览器 - [点击下载](https://pan.quark.cn/s/0065796ea9dc)
 - 油猴脚本Tampermonkey-- [点击下载](https://pan.quark.cn/s/649d24b36c30)
 - Chrome和Edge策略文件 - [点击下载](https://pan.quark.cn/s/8a6b5734c68d)
+- 油猴脚本插件推荐 - [「油猴脚本插件推荐」](https://pan.quark.cn/s/513372a5b3f0)
 
 ## 支付
 - 安卓云闪付APP - [点击下载](https://pan.quark.cn/s/dc8b3d01727c)
