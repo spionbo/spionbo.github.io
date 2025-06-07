@@ -53,8 +53,7 @@ permalink: /article/software/
 ## 文件处理
 
 ## 插件类
-- 油猴脚本Tampermonkey-- [点击下载](https://pan.quark.cn/s/649d24b36c30)
-- Chrome和Edge策略文件 - [点击下载](https://pan.quark.cn/s/8a6b5734c68d)
+
 
 ### PDF
 - PDF_Shaper_Professional_v10.5 - [点击下载](https://pan.quark.cn/s/945bef056362)
@@ -65,6 +64,17 @@ permalink: /article/software/
 ## 多媒体
 ### 音乐播放
 - AIMP音乐播放器 - [点击下载](https://pan.quark.cn/s/b5754eb1fb1c)
+- 
+
+## 浏览器
+- FireFox 火狐浏览器 - [点击下载](https://pan.quark.cn/s/0065796ea9dc)
+- 360安全浏览器 - [点击下载](https://pan.quark.cn/s/0065796ea9dc)
+- 360极速浏览器 - [点击下载](https://pan.quark.cn/s/0065796ea9dc)
+- 油猴脚本Tampermonkey-- [点击下载](https://pan.quark.cn/s/649d24b36c30)
+- Chrome和Edge策略文件 - [点击下载](https://pan.quark.cn/s/8a6b5734c68d)
+
+## 支付
+- 安卓云闪付APP - [点击下载](https://pan.quark.cn/s/dc8b3d01727c)
   
 ### 截图软件
 - FastStone Capture 截图软件 - [点击下载](https://pan.quark.cn/s/945bef056362)
@@ -84,8 +94,3 @@ permalink: /article/software/
 
 ## 项目
 - 个人博客打造：vuepress部署到github中 - [点击下载](https://pan.quark.cn/s/ebad1f657ad1)
-
-## 其它
-- FireFox 火狐浏览器 - [点击下载](https://pan.quark.cn/s/0065796ea9dc)
-- 360安全浏览器 - [点击下载](https://pan.quark.cn/s/0065796ea9dc)
-- 360极速浏览器 - [点击下载](https://pan.quark.cn/s/0065796ea9dc)

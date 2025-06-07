@@ -2,6 +2,9 @@
 title: chrome浏览器无法安装扩展
 createTime: 2025/06/06 21:34:42
 permalink: /article/wue8sxsf/
+tags:
+  - 浏览器
+  - 浏览器插件
 ---
 
 chrome浏览器无法安装扩展，并出现以下几种提示：

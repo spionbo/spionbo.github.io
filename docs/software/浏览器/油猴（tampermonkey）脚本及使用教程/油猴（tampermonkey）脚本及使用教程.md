@@ -2,6 +2,12 @@
 title: 油猴（tampermonkey）脚本下载及安装使用教程
 createTime: 2025/06/06 14:12:56
 permalink: /article/i4d84ah1/
+tags:
+  - 油猴脚本
+  - 浏览器
+  - 油猴
+  - tampermonkey
+  - 浏览器插件
 ---
 
 篡改猴 (Tampermonkey) 是拥有 超过 1000 万用户 的最流行的浏览器扩展之一。 它适用于 Chrome、Microsoft Edge、Safari、Opera Next 和 Firefox。
@@ -18,7 +24,9 @@ permalink: /article/i4d84ah1/
 
 ## 安装方法（Chrome）
 
-下载地址：[点击下载](https://pan.quark.cn/s/649d24b36c30) （chrome、Firefox、safari都在里面了，请自己行选择。）
+[油猴（tampermonkey）脚本地址](https://pan.quark.cn/s/649d24b36c30)
+
+浏览器下载地址：[点击下载](https://pan.quark.cn/s/649d24b36c30) （chrome、Firefox、safari都在里面了，请自己行选择。）
 
 1、打开浏览器，在地址栏输入 `chrome://extensions/` 回车打开扩展程序页面，或者按下图方法选择扩展程序：
 

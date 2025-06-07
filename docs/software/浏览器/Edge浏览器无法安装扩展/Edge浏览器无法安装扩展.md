@@ -2,6 +2,9 @@
 title: Edge浏览器无法安装扩展
 createTime: 2025/06/06 22:20:05
 permalink: /article/6346gq3j/
+tags:
+  - 浏览器
+  - 浏览器插件
 ---
 
 Edge浏览器无法安装扩展如果安装失败，并出现以下几种提示：
