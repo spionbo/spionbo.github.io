@@ -56,9 +56,16 @@ permalink: /article/software/
 
 ## 休闲娱乐
 
+### 加速器
+
+|[炽焰加速器](https://pan.quark.cn/s/56c058a3cdf2)|[github加速器](https://pan.quark.cn/s/56c058a3cdf2)|
+|-|-|
+|[steam++游戏加速器_Watt Toolkit](https://pan.quark.cn/s/56c058a3cdf2)|[极狐加速器](https://pan.quark.cn/s/56c058a3cdf2)|
+
 ## 文件处理
 
 ## 插件类
+
 
 
 ### PDF
