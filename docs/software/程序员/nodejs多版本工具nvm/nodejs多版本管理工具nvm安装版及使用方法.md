@@ -2,6 +2,9 @@
 title: nodejs多版本管理工具nvm安装版及使用方法
 createTime: 2025/06/07 11:13:40
 permalink: /article/e2jyccl5/
+tags: 
+    - nodejs
+    - nvm
 ---
 
 ## 简介
