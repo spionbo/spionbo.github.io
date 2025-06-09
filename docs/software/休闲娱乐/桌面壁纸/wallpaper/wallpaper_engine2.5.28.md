@@ -2,6 +2,10 @@
 title: 桌面壁纸wallpaper_engine2.5.28版
 createTime: 2025/06/09 14:36:35
 permalink: /article/f2z7n608/
+tags:
+  - wallpaper_engine
+  - wallpaper
+  - 壁纸
 ---
 
 你见过最惊艳的 Wallpaper Engine 壁纸有哪些?
