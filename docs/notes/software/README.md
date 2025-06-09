@@ -16,7 +16,7 @@ permalink: /article/software/
 |[截图软件Snipaste](https://pan.quark.cn/s/580d82d2fe68)|[SumatraPDF阅读器](https://pan.quark.cn/s/945bef056362)|
 |[Chrome 浏览器离线版](https://pan.quark.cn/s/0065796ea9dc)|[图片处理，扣图软件美图秀秀](https://pan.quark.cn/s/255502a981d2)|
 |[老版win_RAR_X64解压软件](https://pan.quark.cn/s/f79828accc89)| [壁纸引擎Wallpaper Engine v2.5.28冬季离线版](https://pan.quark.cn/s/35a12b616b8e)|
-
+|[桌面壁纸wallpaper](https://pan.quark.cn/s/9aafa57940eb)|[万彩办公大师OfficeBox官方绿色版v_3.1.2](https://pan.quark.cn/s/8aba5da76a4d)|
 
 
 
@@ -53,6 +53,9 @@ permalink: /article/software/
 ## 全安防护
 
 ## 商业办公
+|[万彩办公大师OfficeBox官方绿色版v_3.1.2](https://pan.quark.cn/s/8aba5da76a4d)||
+|-|-|
+|||
 
 ## 休闲娱乐
 
