@@ -32,16 +32,16 @@ tags:
 ## 安装 Node.js
 首先去Node.js官方下载安装包安装： [https://nodejs.org/en](https://nodejs.org/en)
 
-![alt text](./images/image.png)
+![alt text](./images/1.png)
 
 ## 安装pnpm
 同时按 win+R键，在弹出的运行对话框中输入cmd，打开Windows的命令行：
 
-![alt text](./images/pnpm.png)
+![alt text](./images/2.png)
 
 按确定。会出一个命令对话匡：
 
-![alt text](./images/cmd.png)
+![alt text](./images/3.png)
 
 执行命令：
 
@@ -127,11 +127,11 @@ pnpm create vuepress-theme-plume@latest
 ## 新建 Github 仓库
 注册好后，我们先在 Github 上新建一个仓库，我的仓库就叫：blog。
 
-![alt text](./images/github_create.png)
+![alt text](./images/4.png)
 
 「（注意：如果你的博客地址不想要有二级目录（blog），仓库名就叫 <你的用户名>.github.io，具体请看文章最后一段。 ）」
 
-![alt text](./images/github_create_repository.png)
+![alt text](./images/5.png)
 
 这里说明一下，如果想要自己的域名，最好是仓库名叫 <你的用户名>.github.io，比如我的：spionbo.github.io，因为我的用户名是 `spionbo`
 
@@ -180,21 +180,21 @@ base: "/"
 ```
 
 提交完代码之后，在github的仓库中看修改Actions下面的信息，如下图：
-![alt text](./images/github_action.png)
+![alt text](./images/6.png)
 
 然后再去设置Actions中的General
 
-![alt text](./images/github_action_setting0.png)
+![alt text](./images/7.png)
 
 选择如下图，选择 Read and write permissions
 
-![alt text](./images/github_action_setting.png)
+![alt text](./images/8.png)
 
 以上目的就是为了让你发布的时候有权限进行发布，这时候再去修改内容，提交一下，就会自动生成网站了
 
 第次提交的时候可以在Actions中查看你的代码，如以下图，其中`main`为你提交文章保存的地方，`github-pages`用于展示你的网站；这个可以不管。如果想了解需要学习一下`Github`仓库管理；
 
-![alt text](./images/action_workflows.png)
+![alt text](./images/9.png)
 
 以上做完后，就可以查看自己的个人博客了。
 个人博客地址可以在`settings -> pages`页面查看；一搬是<你的用户名>.github.io；

@@ -27,10 +27,9 @@ permalink: /article/software/
 |[uninstalltool_卸载软件](https://pan.quark.cn/s/580d82d2fe68)|[wiztree,磁盘空间分析器](https://pan.quark.cn/s/536018c4df90)|
 |-----|-----|
 |[spacesniffer软件-磁盘空间分析工具](https://pan.quark.cn/s/536018c4df90)|[HiBitUninstaller-Protable卸载软件](https://pan.quark.cn/s/580d82d2fe68)|
+|[Quicklook文件预览](https://pan.quark.cn/s/db9903d2eca6)|[强力卸载软件Geek](https://pan.quark.cn/s/580d82d2fe68)|
+|[C盘搬家FolderMovev3.0汉化版](https://pan.quark.cn/s/a27def7e7871)||
 |||
-|||
-|||
-
 
 ### 修复工具
 
@@ -52,6 +51,11 @@ permalink: /article/software/
 
 ## 全安防护
 
+|[火绒安全软件](https://pan.quark.cn/s/3c11d3ef33e2)||
+|-|-|
+|||
+
+
 ## 商业办公
 |[万彩办公大师OfficeBox官方绿色版v_3.1.2](https://pan.quark.cn/s/8aba5da76a4d)||
 |-|-|
@@ -66,6 +70,9 @@ permalink: /article/software/
 |[steam++游戏加速器_Watt Toolkit](https://pan.quark.cn/s/56c058a3cdf2)|[极狐加速器](https://pan.quark.cn/s/56c058a3cdf2)|
 
 ## 文件处理
+|[7-Zip](https://pan.quark.cn/s/a9220b346e17)|[BANDIZIP](https://pan.quark.cn/s/a9220b346e17)|
+|-|-|
+|[win_RAR](https://pan.quark.cn/s/a9220b346e17)||
 
 ## 插件类
 
@@ -94,6 +101,7 @@ permalink: /article/software/
 
 |[AIMP音乐播放器](https://pan.quark.cn/s/b5754eb1fb1c)||
 |-|-|
+|[PotPlayer 去广告绿色版](https://pan.quark.cn/s/8e12d52c5f23)|[KMPlayer+Plus+(Divx)+v34.11.271+(Premium).apk](https://pan.quark.cn/s/8e12d52c5f23)|
 |||
 
 
