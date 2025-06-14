@@ -17,6 +17,7 @@ permalink: /article/software/
 |[Chrome 浏览器离线版](https://pan.quark.cn/s/0065796ea9dc)|[图片处理，扣图软件美图秀秀](https://pan.quark.cn/s/255502a981d2)|
 |[老版win_RAR_X64解压软件](https://pan.quark.cn/s/f79828accc89)| [壁纸引擎Wallpaper Engine v2.5.28冬季离线版](https://pan.quark.cn/s/35a12b616b8e)|
 |[桌面壁纸wallpaper](https://pan.quark.cn/s/9aafa57940eb)|[万彩办公大师OfficeBox官方绿色版v_3.1.2](https://pan.quark.cn/s/8aba5da76a4d)|
+|[系统清理，搬家，杀毒，加速，优化等](https://pan.quark.cn/s/52c6315c772b)||
 
 
 
@@ -29,7 +30,9 @@ permalink: /article/software/
 |[spacesniffer软件-磁盘空间分析工具](https://pan.quark.cn/s/536018c4df90)|[HiBitUninstaller-Protable卸载软件](https://pan.quark.cn/s/580d82d2fe68)|
 |[Quicklook文件预览](https://pan.quark.cn/s/db9903d2eca6)|[强力卸载软件Geek](https://pan.quark.cn/s/580d82d2fe68)|
 |[C盘搬家FolderMovev3.0汉化版](https://pan.quark.cn/s/a27def7e7871)||
-|||
+|[Wise Disk Cleaner磁盘清理](https://pan.quark.cn/s/826f255415c1)|[微软件电脑管家](https://pan.quark.cn/s/52c6315c772b)|
+|[屏幕护眼flux](https://pan.quark.cn/s/c8ba9e356ffb)||
+
 
 ### 修复工具
 
@@ -59,7 +62,8 @@ permalink: /article/software/
 ## 商业办公
 |[万彩办公大师OfficeBox官方绿色版v_3.1.2](https://pan.quark.cn/s/8aba5da76a4d)||
 |-|-|
-|||
+|[PDFCandyDesktop](https://pan.quark.cn/s/dd54c5a3b98f)||
+
 
 ## 休闲娱乐
 
@@ -92,8 +96,17 @@ permalink: /article/software/
 |[「typora1.0.3版，免费无需激活版」](https://pan.quark.cn/s/d48c21f5c4cc)|[「nvm安装nodejs版本管理器」](https://pan.quark.cn/s/6af99d8a3e0a)|
 |-|-|
 |[「Fiddler_无需登录版」](https://pan.quark.cn/s/497b5d80cd98)||
-|||
+|[filebrowser个人网盘](https://pan.quark.cn/s/3987a4282387)|[java-decompliler所有平台版本](https://pan.quark.cn/s/804dc21c60b1)|
 
+
+### FTP上传工具
+|[3CDaemon](https://pan.quark.cn/s/4a9eaf35976c)|[CuteFtp](https://pan.quark.cn/s/4a9eaf35976c)|
+|-|-|
+|[FileZilla](https://pan.quark.cn/s/4a9eaf35976c)|[FlashFxp(附激活码)](https://pan.quark.cn/s/4a9eaf35976c)|
+|[FTPRush](https://pan.quark.cn/s/4a9eaf35976c)|[IPOP](https://pan.quark.cn/s/4a9eaf35976c)|
+|[Serv-U-FTP服务器](https://pan.quark.cn/s/4a9eaf35976c)|[WingFtpServer](https://pan.quark.cn/s/4a9eaf35976c)|
+|[WinSCP](https://pan.quark.cn/s/4a9eaf35976c)|[XFTP](https://pan.quark.cn/s/4a9eaf35976c)|
+|[简单FTP服务器](https://pan.quark.cn/s/4a9eaf35976c)|
 
 
 ## 多媒体
@@ -102,8 +115,7 @@ permalink: /article/software/
 |[AIMP音乐播放器](https://pan.quark.cn/s/b5754eb1fb1c)||
 |-|-|
 |[PotPlayer 去广告绿色版](https://pan.quark.cn/s/8e12d52c5f23)|[KMPlayer+Plus+(Divx)+v34.11.271+(Premium).apk](https://pan.quark.cn/s/8e12d52c5f23)|
-|||
-
+|[listen1](https://pan.quark.cn/s/105a6f47c5d6)||
 
 
 ## 浏览器
