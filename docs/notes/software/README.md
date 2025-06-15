@@ -24,6 +24,10 @@ permalink: /article/software/
 
 
 ## 系统工具
+[Microsoft PowerToys](https://pan.quark.cn/s/78bba9497092)
+
+[Everything](https://pan.quark.cn/s/aa60321f9619)
+
 ### 系统优化
 |[uninstalltool_卸载软件](https://pan.quark.cn/s/580d82d2fe68)|[wiztree,磁盘空间分析器](https://pan.quark.cn/s/536018c4df90)|
 |-----|-----|
@@ -42,11 +46,13 @@ permalink: /article/software/
 |[KB2813430补丁 ](https://pan.quark.cn/s/208440aaf82e)|[directx repair 修复工具增强版下载](https://pan.quark.cn/s/942662d0d457)|
 |[ntdlldll 修复](https://pan.quark.cn/s/942662d0d457)|[Microsoft Visual C++ 修复](https://pan.quark.cn/s/3c6c19c49669)|
 |[.NET 8.0](https://pan.quark.cn/s/7cd47c62a3c5)|[.NET 9.0-dotnet-sdk](https://pan.quark.cn/s/7cd47c62a3c5)|
-|||
+|[Recuva数据恢复](https://pan.quark.cn/s/1c231e62e2f6)|[WinFR数据恢复](https://pan.quark.cn/s/1c231e62e2f6)|
 
 
 
+### 剪切版
 
+[ClipAngel](https://pan.quark.cn/s/e945b6972447)
 
 
 
@@ -76,7 +82,12 @@ permalink: /article/software/
 ## 文件处理
 |[7-Zip](https://pan.quark.cn/s/a9220b346e17)|[BANDIZIP](https://pan.quark.cn/s/a9220b346e17)|
 |-|-|
-|[win_RAR](https://pan.quark.cn/s/a9220b346e17)||
+|[win_RAR](https://pan.quark.cn/s/a9220b346e17)|[Czkawka跨平台重复文件清理](https://pan.quark.cn/s/84bec7839eef)|
+
+### 下载
+
+[IDM下载器永久免费版，加速下载](https://pan.quark.cn/s/97224e8c5ec0)
+[qBittorrent](https://pan.quark.cn/s/a8b5729843d8)
 
 ## 插件类
 
@@ -144,9 +155,17 @@ permalink: /article/software/
 |||
 
 
+### 批量文件重命名
 
+- [Advanced Renamer 4.02 中文绿色版官方版本](https://pan.quark.cn/s/d0495e145206)
+- [antrenamer免安装版](https://pan.quark.cn/s/d0495e145206)
+- [ReNamerPro_7.7.0.4Beta汉化优化版](https://pan.quark.cn/s/d0495e145206)
 
+### OCR
 
+- [天若OCR_本地版_1.3.9](https://pan.quark.cn/s/71ca74d1d0e9)
+- [熊猫精灵脚本助手V3.1_05](https://pan.quark.cn/s/71ca74d1d0e9)
+- [Umi-OCR_Rapid_v2.1.5单文件](https://pan.quark.cn/s/71ca74d1d0e9)
 
 
 
