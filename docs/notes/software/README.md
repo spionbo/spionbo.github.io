@@ -70,6 +70,11 @@ permalink: /article/software/
 |-|-|
 |[PDFCandyDesktop](https://pan.quark.cn/s/dd54c5a3b98f)||
 
+### 远程控制
+- [向日葵](https://pan.quark.cn/s/688c036ff32f)
+- [ToDesk](https://pan.quark.cn/s/688c036ff32f)
+- [rustdesk](https://pan.quark.cn/s/688c036ff32f)
+
 
 ## 休闲娱乐
 
@@ -83,6 +88,7 @@ permalink: /article/software/
 |[7-Zip](https://pan.quark.cn/s/a9220b346e17)|[BANDIZIP](https://pan.quark.cn/s/a9220b346e17)|
 |-|-|
 |[win_RAR](https://pan.quark.cn/s/a9220b346e17)|[Czkawka跨平台重复文件清理](https://pan.quark.cn/s/84bec7839eef)|
+|[文件夹加密Anvi Folder Locker](https://pan.quark.cn/s/c0b073583a8a)|
 
 ### 下载
 
@@ -121,13 +127,20 @@ permalink: /article/software/
 
 
 ## 多媒体
+
+- [Honeyview图片预览](https://pan.quark.cn/s/e0ee0a909a0e)
+
+### 图片处理
+
+- [PhotoDemon轻量免安装](https://pan.quark.cn/s/37cc83c8cd6a)
+
 ### 音乐播放
 
 |[AIMP音乐播放器](https://pan.quark.cn/s/b5754eb1fb1c)||
 |-|-|
 |[PotPlayer 去广告绿色版](https://pan.quark.cn/s/8e12d52c5f23)|[KMPlayer+Plus+(Divx)+v34.11.271+(Premium).apk](https://pan.quark.cn/s/8e12d52c5f23)|
-|[listen1](https://pan.quark.cn/s/105a6f47c5d6)||
-
+|[listen1](https://pan.quark.cn/s/105a6f47c5d6)|[AlgerMusicPlayer](https://pan.quark.cn/s/b8fc27690859)|
+|[lx-music](https://pan.quark.cn/s/b8fc27690859)||
 
 ## 浏览器
 
@@ -172,6 +185,11 @@ permalink: /article/software/
 
 
 ### 视频录制
+
+## 网盘助手
+
+- [坚果云](https://pan.quark.cn/s/c08bba3e91f7)
+
 
 ## 自媒体工具
 
