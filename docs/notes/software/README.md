@@ -116,6 +116,9 @@ permalink: /article/software/
 |[filebrowser个人网盘](https://pan.quark.cn/s/3987a4282387)|[java-decompliler所有平台版本](https://pan.quark.cn/s/804dc21c60b1)|
 
 
+- [xshell6,Xftp6](https://pan.quark.cn/s/82eb7d8f6d1e)
+
+
 ### FTP上传工具
 |[3CDaemon](https://pan.quark.cn/s/4a9eaf35976c)|[CuteFtp](https://pan.quark.cn/s/4a9eaf35976c)|
 |-|-|
@@ -129,10 +132,19 @@ permalink: /article/software/
 ## 多媒体
 
 - [Honeyview图片预览](https://pan.quark.cn/s/e0ee0a909a0e)
+- [HandBrake-1.9.2视频压缩](https://pan.quark.cn/s/423ed90a3f16)
+- [小丸视频压缩](https://pan.quark.cn/s/423ed90a3f16)
+- [ShanaEncoder6.0.1.7频压缩](https://pan.quark.cn/s/423ed90a3f16)
+- [格式工厂 FormatFactory 绿色免费版](https://pan.quark.cn/s/02ce8826b668)
+- [LosslessCut（Win + Mac +Linux）](https://pan.quark.cn/s/319077b2c024)
+- [万兴神剪手免费绿色版下载](https://pan.quark.cn/s/319077b2c024)
 
 ### 图片处理
 
 - [PhotoDemon轻量免安装](https://pan.quark.cn/s/37cc83c8cd6a)
+- [水印官家-Apowersoft Watermark Remover，去除图片，视频水印](https://pan.quark.cn/s/9396dcd53c70)
+- [Inpaint，去除图片水印](https://pan.quark.cn/s/9396dcd53c70)
+- [Photo Stamp Remover 13.0，去除图片水印](https://pan.quark.cn/s/9396dcd53c70)
 
 ### 音乐播放
 
