@@ -37,6 +37,9 @@ permalink: /article/software/
 |[Wise Disk Cleaner磁盘清理](https://pan.quark.cn/s/826f255415c1)|[微软件电脑管家](https://pan.quark.cn/s/52c6315c772b)|
 |[屏幕护眼flux](https://pan.quark.cn/s/c8ba9e356ffb)||
 
+- [驱动修复，驱动更新，驱动安装](https://pan.quark.cn/s/17a8f491a2b9)
+
+
 
 ### 修复工具
 
@@ -48,7 +51,9 @@ permalink: /article/software/
 |[.NET 8.0](https://pan.quark.cn/s/7cd47c62a3c5)|[.NET 9.0-dotnet-sdk](https://pan.quark.cn/s/7cd47c62a3c5)|
 |[Recuva数据恢复](https://pan.quark.cn/s/1c231e62e2f6)|[WinFR数据恢复](https://pan.quark.cn/s/1c231e62e2f6)|
 
-
+- [directx repair 修复工具增强版下载最新版](https://pan.quark.cn/s/2cc5ff53636a)
+- [打印机修复，打印机共享修复工具](https://pan.quark.cn/s/c556bd56cb78)
+- [微软常用运行库合集获取](https://pan.quark.cn/s/d83a3667a56a)
 
 ### 剪切版
 
@@ -115,6 +120,9 @@ permalink: /article/software/
 |[「Fiddler_无需登录版」](https://pan.quark.cn/s/497b5d80cd98)||
 |[filebrowser个人网盘](https://pan.quark.cn/s/3987a4282387)|[java-decompliler所有平台版本](https://pan.quark.cn/s/804dc21c60b1)|
 
+- [Axure RP11安装版](https://pan.quark.cn/s/8c3c4c266032)
+- [RedisDesktopManager](https://pan.quark.cn/s/dfee2f17d1ef)
+
 
 - [xshell6,Xftp6](https://pan.quark.cn/s/82eb7d8f6d1e)
 
@@ -138,6 +146,9 @@ permalink: /article/software/
 - [格式工厂 FormatFactory 绿色免费版](https://pan.quark.cn/s/02ce8826b668)
 - [LosslessCut（Win + Mac +Linux）](https://pan.quark.cn/s/319077b2c024)
 - [万兴神剪手免费绿色版下载](https://pan.quark.cn/s/319077b2c024)
+- [Sundy音视频格式转换工具](https://pan.quark.cn/s/2cf473127d74)
+- [B站视频下载工批量下载工具大全](https://pan.quark.cn/s/a6f1eacb01e0)
+
 
 ### 图片处理
 
